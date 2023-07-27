@@ -15,7 +15,7 @@ export default function Nosotros() {
                     <Image src='/img/nosotros.jpg' width={700} height={500}  alt='Imagen sobre nosotros'/>
                     <div>
                         <p>
-                            "En nuestra apasionada y vibrante empresa Guitarra-Ricardo, 
+                            En nuestra apasionada y vibrante empresa Guitarra-Ricardo, 
                             hemos estado en sintonía con la música y la comunidad de guitarristas durante más de una década. 
                             Nuestra pasión por las seis cuerdas es contagiosa, 
                             y nuestro compromiso con la excelencia musical es incomparable. 
@@ -28,7 +28,7 @@ export default function Nosotros() {
                             Nuestro equipo experto está siempre afinado para brindar recomendaciones personalizadas, 
                             ajustes y consejos para que encuentren el instrumento perfecto. 
                             Únanse a nuestra comunidad de amantes de la guitarra y descubran el compás de la melodía que marcará la diferencia en su viaje musical.
-                            ¡La sinfonía de las seis cuerdas les aguarda!"
+                            La sinfonía de las seis cuerdas les aguarda.
                         </p>
                     </div>
                 </div>
